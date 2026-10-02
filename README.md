@@ -34,3 +34,4 @@ This is a set of hand-written DigiSpark sketches for the Arduino IDE that utiliz
 - [**Window_Jammer**](https://github.com/mishqatabid/DigiSpark-Scripts/blob/main/Window_Jammer.ino): Spams ALT + F4 and CTRL + W key combos to force close all active windows
 - [**Windows_Phisher**](https://github.com/mishqatabid/DigiSpark-Scripts/blob/main/Window_Phisher.ino): Logs all entered credentials inculding the invalid ones. It stores them in temporary directory on file rake and in the end delete the created file after sending them when correct credentials are entered.
 
+
